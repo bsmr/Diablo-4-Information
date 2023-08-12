@@ -1,5 +1,36 @@
 # Diablo 4 - Necromancer
 
+## Aspects to Collect from Dungeons
+
+- Collected
+  - Defensive
+    - Aspect of the Protector (Lost Archives in Fractured Peaks)
+    - Aspect of Disobience (Halls of the Damned in Kehjistan)
+  - Offensive
+    - Splintering Aspect (Guulrahn Slums in Dry Steppes)
+  - Resource
+  - Utility
+  - Mobility
+- Not Collected
+  - Defensive
+    - Aspect of the Deflecting Barrier (Lost Keep in Hawezar)
+    - Aspect of Might (Dark Ravine in Dry Steppes)
+  - Offensive
+  - Resource
+  - Utility
+  - Mobility
+- Unknown
+  - Unknown
+    - Eluding Aspect (Caldera Gate in Fractures Peaks: OK)
+    - Aspect of Shielding Storm (Drop: ?)
+    - Aspect of the Embalmer
+    - Aspect of Grasping Veins (Corrupted Grotto in Kehjistan: ?)
+    - Aspect of Serration
+    - Resource Aspect of Exposed Flesh
+    - Resource Aspect of the Umbral
+    - Splintering Offensive Aspect
+    - Wind Striker Mobility Aspect
+
 ## Builds
 
 ### Leveling
@@ -9,29 +40,125 @@
 
 ### Endgame
 
-- [Maxroll: Bone Spirit Necromancer Endgame Build Guide](https://maxroll.gg/d4/build-guides/bone-spirit-necromancer-guide)
+- [Maxroll: Bone Spear Necromancer Endgame Build Guide](https://maxroll.gg/d4/build-guides/bone-spear-necromancer-guide)
 - [Maxroll: Sever Necromancer Endgame Guide](https://maxroll.gg/d4/build-guides/sever-necromancer-endgame-guide)
 - [Maxroll: Bone Spirit Necromancer Endgame Build Guide](https://maxroll.gg/d4/build-guides/bone-spirit-necromancer-guide)
 
 ## Setup
 
+### Necromancer - Endgame - Bone Spear
+
+#### Gear Priority
+
+| Location | Priority 0                           | Priority 1             | Priority 2                                     | Priority 3                              | Priority 4                                             | Priority 5                  | Priority 6 |
+| -------- | ------------------------------------ | ---------------------- | ---------------------------------------------- | --------------------------------------- | ------------------------------------------------------ | --------------------------- | ---------- |
+| Head     |                                      | Cooldown Reduction     | Total Armor                                    | Maximum Life                            | Maximum Essence                                        |                             |            |
+| Chest    |                                      | Damage Reduction       | % Total Armor                                  | Maximum Life                            | Damage Reduction from Distant Enemies                  |                             |            |
+| Arms     |                                      | +Ranks to Bone Spear   | Critical Strike Chance                         | Critical Strike Chance with Bone Skills | Lucky Hit: Up to 5% Chance to Restore Primary Resource | Attack Speed                |            |
+| Pants    | Implicit: Potion Restores Essence    | Maximum Life           | Total Armor                                    | Damage Reduction                        | Damage Reduction from Distant Enemies                  | Intelligence                | All Stats  |
+| Boots    | Implicit: Movement Speed after Evade | Movement Speed         | Essence Cost Reduction                         | +Ranks to Corpse Tendrils               | Intelligence                                           |                             |            |
+| Amulet   |                                      | Total Armor            | Movement Speed                                 | Essence Cost Reduction                  | +Ranks to Evulsion                                     | Damage Reduction (Hardcore) |            |
+| Ring 1   |                                      | Critical Strike Chance | Vulnerable Damage                              | Critical Strike Damage                  | Maximum Essence                                        | Maximum Life (Hardcore)     |            |
+| Ring 2   |                                      | Critical Strike Chance | Vulnerable Damage                              | Critical Strike Damage                  | Maximum Essence                                        | Maximum Life (Hardcore)     |            |
+| Weapon   | Weapon Damage                        | Vulnerable             | Critical Strike Damage                         | Critical Strike Damage with Bone Skills | Core Skill Damage                                      |                             |            |
+| Offhand  | Weapon Damage                        | Critical Strike Chance | Lucky Hit: Chance to Resource Primary Resource | Essence Cost Reduction                  | Intelligence                                           |                             |            |
+
+#### Aspect Sources
+
+| Aspect          | Location | Dungeon             | Area            |
+| --------------- | -------- | ------------------- | --------------- |
+| Disobedience    | Codex    | Halls of the Damned | Kehjistan       |
+| Exposed Flesh   | Loot     | n/a                 | n/a             |
+| Grasping Veins  | Codex    | Corrupted Grotto    | Kehjistan       |
+| Inner Calm      | Codex    | Raethwind Wilds     | Scosglen        |
+| Might           | Codex    | Dark Ravine         | Dry Steppes     |
+| Potent Blood    | Codex    | Betrayer's Row      | Dry Steppes     |
+| Sacrificial     | Codex    | Ruins of Eridu      | Hawezar         |
+| Serration       | Loot     | n/a                 | n/a             |
+| Splintering     | Codex    | Guulrahn Slums      | Dry Steppes     |
+| The Protector   | Codex    | Lost Archives       | Fractured Peaks |
+| Torment         | Codex    | Black Asylum        | Fractured Peaks |
+| Wind Striker    | Codex    | Shivta Ruins        | Kehjistan       |
+| **Hardcore**    |          |                     |                 |
+| Explosive Mist  | Loot     |                     |                 |
+| Shared Misery   | Codex    | Oblivion            | Hawezar         |
+| Shielding Storm | Loot     |                     |                 |
+| The Umbral      | Codex    | CHampion's Demise   | Dry Steppes     |
+
+#### Level 50 to 100
+
+##### Gear - Level 50 to 100
+
+| Location | Starter       | Early        | Late         |
+| -------- | ------------- | ------------ | ------------ |
+| Head     | Archon        | Doom         | Doom         |
+| Chest    | Boneweave     | Boneweave    | Boneweave    |
+| Arms     | Exceptional   | Boneweave    | Boneweave    |
+| Pants    | Archon Faulds | Sovereign    | Sovereign    |
+| Boots    | Adventurer's  | Boneweave    | Boneweave    |
+| Amulet   | Amulet        | Chain        | Chain        |
+| Ring 1   | Loop          | Ring         | Ring         |
+| Ring 2   | Band          | Circle       | Band         |
+| Weapon   | 2H Sword      | Barbed Sword | Barbed Sword |
+| Offhand  | N/A           | Jade Relic   | Jade Relic   |
+
+
+##### Aspects - Level 50 to 100
+
+| Location | Starter        | Early          | Late           |
+| -------- | -------------- | -------------- | -------------- |
+| Head     | Might          | Might          | Might          |
+| Chest    | Disobedience   | Disobedience   | Disobedience   |
+| Arms     | Splintering    | Splintering    | Splintering    |
+| Pants    | The Protector  | The Protector  | The Protector  |
+| Boots    | Wind Striker   | Wind Striker   | Wind Striker   |
+| Amulet   | Grasping Veins | Grasping Veins | Grasping Veins |
+| Ring 1   | Torment        | Sacrificial    | Sacrificial    |
+| Ring 2   | Sacrificial    | Potent Blood   | Exposed Flesh  |
+| Weapon   | Serration      | Serration      | Serration      |
+| Offhand  | N/A            | Inner Calm     | Inner Calm     |
+
+#### 100 Specials
+
+##### Gear - 100 Specials
+
+| Location    | Speedfarming     | ND Push      | P Boss           | Hardcore         | Tanky |
+| ----------- | ---------------- | ------------ | ---------------- | ---------------- | ----- |
+| Head        | Deathless Visage | Doom         | Deathless Visage | Doom             |       |
+| Chest       | Boneweave        | Boneweave    | Boneweave        | Boneweave        |       |
+| Arms        | Boneweave        | Boneweave    | Boneweave        | Howl from Below  |       |
+| Pants       | Sovereign        | Sovereign    | Sovereign        | Sovereign        |       |
+| Boots       | Boneweave        | Boneweave    | Boneweave        | Penitent Greaves |       |
+| Amulet      | Chain            | Chain        | Chain            | Chain            |       |
+| Ring 1      | Ring             | Ring         | Ring             | Ring             |       |
+| Ring 2      | Band             | Band         | Band             | Band             |       |
+| Weapon      | Barbed Sword     | Barbed Sword | Barbed Sword     | Bone             |       |
+| Offhand     | Jade Relic       | Jade Relic   | Jade Relic       | Bonescale        |       |
+| Offhand Alt |                  |              |                  | Lidless Wall     |       |
+
+##### Aspects - 100 Specials
+
+| Location    | Speedfarming   | ND Push        | P Boss         | Hardcore        | Tanky |
+| ----------- | -------------- | -------------- | -------------- | --------------- | ----- |
+| Head        | n/a            | Explosive Mist | n/a            | Explosive Mist  |       |
+| Chest       | Disobedience   | Disobedience   | Disobedience   | Disobedience    |       |
+| Arms        | Splintering    | Splintering    | Splintering    | n/a             |       |
+| Pants       | The Protector  | The Protector  | The Protector  | Shielding Storm |       |
+| Boots       | Wind Striker   | Wind Striker   | Wind Striker   | n/a             |       |
+| Amulet      | Grasping Veins | Grasping Veins | Grasping Veins | Serration       |       |
+| Ring 1      | Sacrificial    | Sacrificial    | Sacrificial    | The Umbral      |       |
+| Ring 2      | Exposed Flesh  | Exposed Flesh  | Exposed Flesh  | Exposed Flesh   |       |
+| Weapon      | Serration      | Serration      | Serration      | Splintering     |       |
+| Offhand     | Inner Calm     | Inner Calm     | Inner Calm     | Shared Misery   |       |
+| Offhand Alt |                |                |                | n/a             |       |
+
 ### Necromancer - Endgame - Bone Spirit
-
-#### Aspects to Collect
-
-- Defensive Aspect of Shielding Storm
-- Defensive Aspect of the Embalmer
-- Offensive Aspect of Grasping Veins
-- Offensive Aspect of Serration
-- Resource Aspect of Exposed Flesh
-- Resource Aspect of the Umbral
-- Splintering Offensive Aspect
-- Wind Striker Mobility Aspect
 
 #### Build
 
 - Weapon
   - Aspect
+    - Offensive Splintering Aspect (Guulrahn Slums in Dry Steppes)
     - Offensive Aspect of Grasping Veins on a Two-Handed Sword (Critical Strike Damage)
     - ‍Offensive Aspect of Grasping Veins on a Two-Handed Scythe (Life on Kill to proc ‍Temerity)
   - Sockers: Emerald
@@ -41,6 +168,7 @@
     3. Core Skill Damage
     4. Vulnerable Damage
 - Helm
+  - Aspect: Eluding Aspect
   - Item: Deathless Visage
   - Sockets: Ruby
 - Chest Armor
@@ -55,7 +183,8 @@
     6. Damage
     7. Bone Skill Damage
 - Gloves
-  - Aspect: Splintering Offensive Aspect
+  - Aspect:
+    - Splintering Offensive Aspect
   - Stat Priority
     1. Critical Strike Chance
     2. Critical Strike Damage with Bone Skills
@@ -63,7 +192,9 @@
     4. Lucky Hit: Up to 5% Chance to Restore 14.0% Primary Resource
     5. Intelligence
 - Pants
-  - Aspect: Defensive Aspect of the Embalmer
+  - Aspect:
+    - Defensive Aspect of Disobience (Halls of the Damned in Kehjistan)
+    - Defensive Aspect of the Embalmer
   - Item: Temerity
   - Sockets: Ruby
   - Stat Priority
