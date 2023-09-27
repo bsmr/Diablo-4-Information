@@ -243,3 +243,36 @@
     4. Critical Strike Damage with Bone Skills
     5. Physical Damage
     6. Damage to Crowd Controlled Enemies
+
+## Current Builds
+
+##### Gear - Level 50 to 100
+
+| Location | Current      | Target           |
+| -------- | ------------ | ---------------- |
+| Head     | Doom         | Deathless Visage |
+| Chest    | Boneweave    | Boneweave        |
+| Arms     | Boneweave    | Boneweave        |
+| Pants    | Sovereign    | Sovereign        |
+| Boots    | Boneweave    | Boneweave        |
+| Amulet   | Chain        | Chain            |
+| Ring 1   | Ring         | Ring             |
+| Ring 2   | Circle       | Band             |
+| Weapon   | Barbed Sword | Barbed Sword     |
+| Offhand  | Jade Relic   | Lidless Wall     |
+
+
+##### Aspects - Level 50 to 100
+
+| Location | Current          | Change             | Target            |
+| -------- | ---------------- | ------------------ | ----------------- |
+| Head     | ☐ Might          | ✓                  | ✓ N/A             |
+| Chest    | ✓ Disobedience   | ✓                  | ✓ Disobedience    |
+| Arms     | ✓ Splintering    | ✓                  | ✓ Grasping Veins  |
+| Pants    | ☐ The Protector  | L: Shielding Storm | ☐ Shielding Storm |
+| Boots    | ☐ Wind Striker   | C: Audacity        | ☐ Audacity        |
+| Amulet   | ✓ Grasping Veins | ✓                  | ✓ Serration       |
+| Ring 1   | ☐ Sacrificial    | C: Edgemaster's    | ☐ Edgemaster's    |
+| Ring 2   | ✓ Exposed Flesh  | ✓                  | ✓ Exposed Flesh   |
+| Weapon   | ✓ Serration      | ✓                  | ✓ Splintering     |
+| Offhand  | ☐ Inner Calm     | ✓                  | ✓ N/A             |
