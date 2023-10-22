@@ -35,16 +35,52 @@
 
 ### Leveling
 
+- [Maxroll: Blood Surge Necromancer Leveling Guide](https://maxroll.gg/d4/build-guides/blood-surge-necromancer-leveling-guide)
 - [Maxroll: Sever Necromancer Leveling Guide](https://maxroll.gg/d4/build-guides/sever-necromancer-leveling-guide)
 - [Maxroll: Bone Spear Necromancer Leveling Guide](https://maxroll.gg/d4/build-guides/bone-spear-necromancer-leveling-guide)
 
 ### Endgame
 
+- [Maxroll: Infinimist Necromancer Endgame Guide](https://maxroll.gg/d4/build-guides/infinimist-necromancer-guide)
 - [Maxroll: Bone Spear Necromancer Endgame Build Guide](https://maxroll.gg/d4/build-guides/bone-spear-necromancer-guide)
 - [Maxroll: Sever Necromancer Endgame Guide](https://maxroll.gg/d4/build-guides/sever-necromancer-endgame-guide)
 - [Maxroll: Bone Spirit Necromancer Endgame Build Guide](https://maxroll.gg/d4/build-guides/bone-spirit-necromancer-guide)
 
 ## Setup
+
+### Infinimist Necromancer Endgame Guide
+
+#### Infinimist Necromancer Endgame Level 50 to 100
+
+##### Gear - Level 50 to 100
+
+| Location | Starter         | Early         | Late                        |
+| -------- | --------------- | ------------- | --------------------------- |
+| Head     | Death Coup      | Runic         | Runic                       |
+| Chest    | Runic           | Runic         | Runic                       |
+| Arms     | Runic           | Runic         | **Howl From Below**         |
+| Pants    | Vicious Serpent | Runic         | Runic                       |
+| Boots    | Runic           | Runic         | Runic                       |
+| Amulet   | Amulet          | Amulet        | Amulet                      |
+| Ring 1   | Teeming Impact  | Band          | Band                        |
+| Ring 2   | Band            | Band          | **X'Fal's Corroded Signet** |
+| Weapon   | Arcanum Desire  | Grim Wand     | Grim Wand                   |
+| Offhand  | Corpse Offer    | Serpant Stone | Serpant Stone               |
+
+##### Aspects - Level 50 to 100
+
+| Location | Starter             | Early                | Late                 |
+| -------- | ------------------- | -------------------- | -------------------- |
+| Head     | _N/A_               | `L:` Explosive Mist  | `L:` Explosive Mist  |
+| Chest    | `C:` Disobedience   | `C:` Disobedience    | `C:` Disobedience    |
+| Arms     | `C:` Shared Misery  | `C:` Shared Misery   | _N/A_                |
+| Pants    | _N/A_               | `L:` Shielding Storm | `L:` Shielding Storm |
+| Boots    | `C:` Ghostwalker    | `C:` Ghostwalker     | `C:` Ghostwalker     |
+| Amulet   | `C:` Blighted       | `C:` Blighted        | `C:` Blighted        |
+| Ring 1   | _N/A_               | `L:` Decay           | `L:` Decay           |
+| Ring 2   | `C:` Grasping Veins | `C:` Grasping Veins  | _N/A_                |
+| Weapon   | _N/A_               | `L:` Ultimate Shadow | `L:` Ultimate Shadow |
+| Offhand  | _N/A_               | `L:` Blood-Soaked    | `L:` Blood-Soaked    |
 
 ### Necromancer - Endgame - Bone Spear
 
@@ -101,7 +137,6 @@
 | Ring 2   | Band          | Circle       | Band         |
 | Weapon   | 2H Sword      | Barbed Sword | Barbed Sword |
 | Offhand  | N/A           | Jade Relic   | Jade Relic   |
-
 
 ##### Aspects - Level 50 to 100
 
@@ -260,7 +295,6 @@
 | Ring 2   | Circle       | Band             |
 | Weapon   | Barbed Sword | Barbed Sword     |
 | Offhand  | Jade Relic   | Lidless Wall     |
-
 
 ##### Aspects - Level 50 to 100
 
