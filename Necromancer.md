@@ -82,6 +82,17 @@
 | Weapon   | _N/A_               | `L:` Ultimate Shadow | `L:` Ultimate Shadow |
 | Offhand  | _N/A_               | `L:` Blood-Soaked    | `L:` Blood-Soaked    |
 
+- Blighted
+- Blood-Soaked
+- Decay
+- Disobedience
+- Explosive Mist
+- Ghostwalker
+- Grasping Veins
+- Shared Misery
+- Shielding Storm
+- Ultimate Shadow
+
 ### Necromancer - Endgame - Bone Spear
 
 #### Gear Priority
