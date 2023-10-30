@@ -48,11 +48,57 @@
 
 ## Setup
 
+### DOT Infinimist Necromancer Endgame Level 50 to 100
+
+Links
+
+- [YouTube: Best Necromancer Build Season 2 | Ubers NM100 With Infinimist Corpse Explosion](https://www.youtube.com/watch?v=R_NhJndVwBI&ab_channel=GoblinInc.)
+- [MobaLytics: Ruse_Cruize'sInfinimist](https://mobalytics.gg/diablo-4/builds/necromancer/permimist-corpse-explosion?tab=skills-and-gear)
+- []()
+
+#### DOT Gear - Level 50 to 100
+
+| Location | Final               |
+| -------- | ------------------- |
+| Head     | **Godslayer Crown** |
+| Chest    | Runic               |
+| Arms     | **Howl From Below** |
+| Pants    | Runic               |
+| Boots    | Runic               |
+| Amulet   | Amulet              |
+| Ring 1   | Band                |
+| Ring 2   |                     |
+| Weapon   | **Black River**     |
+| Offhand  | Serpant Stone       |
+
+#### DOT Aspects - Level 50 to 100
+
+| Location | Final                |
+| -------- | -------------------- |
+| Head     | _N/A_                |
+| Chest    | `C:` Disobedience    |
+| Arms     | _N/A_                |
+| Pants    | `L:` Shielding Storm |
+| Boots    | `L:` Explosive Mist  |
+| Amulet   | `C:` Blighted        |
+| Ring 1   | `L:` Ultimate Shadow |
+| Ring 2   | `?:` Osseous Gale    |
+| Weapon   | _N/A_                |
+| Offhand  | `L:` Blood-Soaked    |
+
+- Blighted
+- Blood-Soaked
+- Osseous Gale
+- Disobedience
+- Explosive Mist
+- Shielding Storm
+- Ultimate Shadow
+
 ### Infinimist Necromancer Endgame Guide
 
 #### Infinimist Necromancer Endgame Level 50 to 100
 
-##### Gear - Level 50 to 100
+##### MR Gear - Level 50 to 100
 
 | Location | Starter         | Early         | Late                        |
 | -------- | --------------- | ------------- | --------------------------- |
@@ -67,7 +113,7 @@
 | Weapon   | Arcanum Desire  | Grim Wand     | Grim Wand                   |
 | Offhand  | Corpse Offer    | Serpant Stone | Serpant Stone               |
 
-##### Aspects - Level 50 to 100
+##### MR Aspects - Level 50 to 100
 
 | Location | Starter             | Early                | Late                 |
 | -------- | ------------------- | -------------------- | -------------------- |
