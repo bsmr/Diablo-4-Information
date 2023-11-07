@@ -63,10 +63,15 @@ flowchart TB
     BI4[The Beast in the Ice]
     EL[Echo of Lilith]
 
-    TWI[Trembling Hand, Gurgling Head, Malignant Heart, Blackened Femur]
-    EB9[9 * Exquisite Blood]
-    LS5[5 * Living Steel]
-    DF9[9 * Distilled Fear]
+    TWI(["1 * Trembling Hand
+         1 * Gurgling Head
+         1 * Malignant Heart
+         1 * Blackened Femur"])
+    EB9([9 * Exquisite Blood])
+    LS5([5 * Living Steel])
+    DF9([9 * Distilled Fear])
+    EGS([2 * Shard of Argony
+         2 * Mucus-Slick Egg])
 
     WT4-->WS4
     WT4-->NM4
@@ -82,14 +87,14 @@ flowchart TB
     LE4-->EB9
     EB9-->LZ4
 
-    WS4-->TWI
-    TWI-->EV4
+    WS4-->TWI-->EV4
 
     WS4-->NM4
 
     NM4-->DF9
     DF9-->BI4
 
-    EV4-->DU4
-    GT4-->DU4
+    EV4-->EGS
+    GT4-->EGS
+    EGS-->DU4
 ```
