@@ -15,20 +15,20 @@
 ## The Beast in the Ice
 
 - Barbarian
-  - Fields of Crimson
   - 100000 Steps
   - Ancients' Oath
   - Battle Trance
+  - Fields of Crimson
   - Hellhammer
 - Druid
-  - Insatiable Fury
   - Hunter's Zenith
-  - Waxing Gibbous
+  - Insatiable Fury
   - Storm's Companion
+  - Waxing Gibbous
 - Necromancer
   - Bloodless Scream
-  - Howl from Below
   - Deathspeaker's Pendant
+  - Howl from Below
   - Ring of Mendeln
 - Rogue
   - Condemnation
@@ -41,9 +41,9 @@
   - Gloves of the Illuminator
   - The Oculus
 - All Classes
+  - Fists of Fate
   - Frostburn
   - Mother's Embrace
-  - Fists of Fate
   - Tassets of the Dawning Sky
 
 ## Duriel
@@ -82,60 +82,60 @@
 ## Grigiore
 
 - Barbarian
-  - Ramaladni's Magnum Opus
-  - Rage of Harrogath
   - Ancients' Oath
   - Battle Trance
+  - Rage of Harrogath
+  - Ramaladni's Magnum Opus
   - The Butcher's Cleaver
 - Druid
-  - Insatiable Fury
   - Hunter's Zenith
-  - Waxing Gibbous
+  - Insatiable Fury
   - The Butcher's Cleaver
+  - Waxing Gibbous
 - Necromancer
   - Blood Artisan's Cuirass
-  - Howl from Below
   - Greaves of the Empty Tomb
+  - Howl from Below
 - Rogue
-  - Word of Hakan
   - Grasp of Shadow
   - Windforce
+  - Word of Hakan
 - Sorcerer
-  - Staff of Lam Esen
-  - Iceheart Brais
   - Gloves of the Illuminator
+  - Iceheart Brais
+  - Staff of Lam Esen
 - All Classes
   - Penitent Greaves
 
 ## Lord Zir
 
 - Barbarian
-  - Ramaladni's Magnum Opus
-  - Rage of Harrohatg
   - Gohr's Devasting Grips
   - Overkill
+  - Rage of Harrogath
+  - Ramaladni's Magnum Opus
   - The Butcher's Cleaver
 - Druid
-  - Mad Wolf's Glee
-  - Vasily's Prayer
-  - Greatstaff of the Crone
   - Fleshrender
+  - Greatstaff of the Crone
+  - Mad Wolf's Glee
   - The Butcher's Cleaver
+  - Vasily's Prayer
 - Necromancer
   - Blood Artisan's Cuirass
   - Deathless Visage
   - Greaves of the Empty Tomb
   - Lidless Wall
 - Rogue
-  - Grasp of Shadow
-  - Eyses in the Dark
-  - Skyhunter
   - Asheara's Khanjar
+  - Eyses in the Dark
+  - Grasp of Shadow
+  - Skyhunter
 - Sorcerer
-  - Staff of Endless Rage
-  - Icehear Brais
-  - Raiment of the Infinite
   - Esadora's Overflowing Cameo
+  - Iceheart Brais
+  - Raiment of the Infinite
+  - Staff of Endless Rage
 - All Classes
   - Penitent Greaves
   - Razorplate
@@ -166,3 +166,80 @@
 - All Classes
   - Frostburn
   - Mother's Embrace
+
+## Items by Bosses
+
+| Item                          | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| ----------------------------- | ------------ | ------ | -------- | -------- | ------- |
+| 100000 Steps                  | yes          |        |          |          | yes     |
+| Ahavarion, Spear of Lycander  |              | yes    |          |          |         |
+| Ancients' Oath                | yes          |        | yes      |          |         |
+| Andariel's Visage             |              | yes    |          |          |         |
+| Asheara's Khanjar             |              |        |          | yes      |         |
+| Azurewrath                    |              | yes    |          |          |         |
+| Banished Lord's Talisman      |              | yes    |          |          |         |
+| Battle Trance                 | yes          |        | yes      |          |         |
+| Black River                   |              | yes    |          |          |         |
+| Blood Artisan's Cuirass       |              | yes    | yes      | yes      |         |
+| Blood Moon Breeches           |              |        |          |          |         |
+| Bloodless Scream              | yes          |        |          |          | yes     |
+| Blue Rose                     |              | yes    |          |          |         |
+| Condemnation                  |              |        |          |          | yes     |
+| Cowl of the Nameless          |              | yes    |          |          |         |
+| Deathless Visage              |              |        |          | yes      | yes     |
+| Deathspeaker's Pendant        | yes          |        |          |          | yes     |
+| Dolmen Stone                  |              | yes    |          |          |         |
+| Doombringer                   |              | yes    |          |          |         |
+| Eaglehorn                     |              |        |          |          |         |
+| Esadora's Overflowing Cameo   |              |        |          | yes      |         |
+| Esu's Heirloom                |              |        |          |          | yes     |
+| Eyes in the Dark              |              |        |          | yes      | yes     |
+| Fields of Crimson             | yes          |        |          |          | yes     |
+| Fists of Fate                 | yes          |        |          |          |         |
+| Flamescar                     |              | yes    |          |          |         |
+| Fleshrender                   |              |        |          | yes      |         |
+| Flickerstep                   |              | yes    |          |          |         |
+| Frostburn                     | yes          |        |          |          | yes     |
+| Gloves of the Illuminator     |              |        | yes      |          |         |
+| Godslayer Crown               |              | yes    |          |          |         |
+| Gohr's Devasting Grips        |              |        |          | yes      | yes     |
+| Grasp of Shadow               |              |        | yes      | yes      |         |
+| Greatstaff of the Crone       |              |        |          | yes      | yes     |
+| Greaves of the Empty Tomb     |              |        | yes      | yes      |         |
+| Harlequin Crest               |              | yes    |          |          |         |
+| Hellhammer                    | yes          |        |          |          |         |
+| Howl from Below               | yes          |        | yes      |          |         |
+| Hunter's Zenith               | yes          |        | yes      |          |         |
+| Iceheart Brais                |              |        | yes      | yes      |         |
+| Insatiable Fury               | yes          |        | yes      |          |         |
+| Lidless Wall                  |              |        |          | yes      |         |
+| Mad Wolf's Glee               |              |        |          | yes      | yes     |
+| Melted Heart of Selig         |              | yes    |          |          |         |
+| Mother's Embrace              | yes          |        |          |          | yes     |
+| Overkill                      |              |        |          | yes      |         |
+| Penitent Greaves              |              |        | yes      | yes      |         |
+| Rage of Harrogath             |              |        | yes      | yes      |         |
+| Raiment of the Infinite       |              |        |          | yes      | yes     |
+| Ramaladni's Magnum Opus       |              |        | yes      |          |         |
+| Razorplate                    |              |        |          |          |         |
+| Ring of Mendeln               | yes          |        |          | yes      |         |
+| Ring of Starless Skies        |              | yes    |          |          |         |
+| Scoundrel's Leathers          |              | yes    |          |          |         |
+| Skyhunter                     |              |        |          | yes      | yes     |
+| Soulbrand                     |              | yes    |          |          |         |
+| Staff of Endless Rage         |              |        |          | yes      | yes     |
+| Staff of Lam Esen             |              |        | yes      |          |         |
+| Storm's Companion             | yes          |        |          |          |         |
+| Tassets of the Dawning Sky    | yes          |        |          |          |         |
+| Temerity                      |              |        |          | yes      |         |
+| Tempest Roar                  |              | yes    |          |          |         |
+| The Butcher's Cleaver         |              |        | yes      | yes      |         |
+| The Grandfather               |              | yes    |          |          |         |
+| The Oculus                    |              |        |          |          |         |
+| Tibault's Will                |              | yes    |          |          |         |
+| Tuskhelm of Joritz the Mighty |              | yes    |          |          |         |
+| Vasily's Prayer               |              |        |          | yes      | yes     |
+| Waxing Gibbous                | yes          |        | yes      |          |         |
+| Windforce                     |              |        | yes      |          |         |
+| Word of Hakan                 |              |        | yes      |          |         |
+| X'Fal's Corrodet Signet       |              | yes    |          |          |         |
