@@ -169,77 +169,110 @@
 
 ## Items by Bosses
 
+| Item                         | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| ---------------------------- | :----------: | :----: | :------: | :------: | :-----: |
+| 100000 Steps                 |     yes      |        |          |          |   yes   |
+| Ahavarion, Spear of Lycander |              |  yes   |          |          |         |
+| Ancients' Oath               |     yes      |        |   yes    |          |         |
+| Andariel's Visage            |              |  yes   |          |          |         |
+| Asheara's Khanjar            |              |        |          |   yes    |         |
+| Azurewrath                   |              |  yes   |          |          |         |
+
+| Item                     | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| ------------------------ | :----------: | :----: | :------: | :------: | :-----: |
+| Banished Lord's Talisman |              |  yes   |          |          |         |
+| Battle Trance            |     yes      |        |   yes    |          |         |
+| Black River              |              |  yes   |          |          |         |
+| Blood Artisan's Cuirass  |              |        |   yes    |   yes    |         |
+| Blood Moon Breeches      |              |  yes   |          |          |         |
+| Bloodless Scream         |     yes      |        |          |          |   yes   |
+| Blue Rose                |              |  yes   |          |          |         |
+
+| Item                   | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| ---------------------- | :----------: | :----: | :------: | :------: | :-----: |
+| Condemnation           |              |        |          |          |   yes   |
+| Cowl of the Nameless   |              |  yes   |          |          |         |
+| Deathless Visage       |              |        |          |   yes    |   yes   |
+| Deathspeaker's Pendant |     yes      |        |          |          |   yes   |
+| Dolmen Stone           |              |  yes   |          |          |         |
+| Doombringer            |              |  yes   |          |          |         |
+
+| Item                        | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| --------------------------- | :----------: | :----: | :------: | :------: | :-----: |
+| Eaglehorn                   |     yes      |        |          |          |         |
+| Esadora's Overflowing Cameo |              |        |          |   yes    |         |
+| Esu's Heirloom              |              |        |          |          |   yes   |
+| Eyes in the Dark            |              |        |          |   yes    |   yes   |
+
+| Item              | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| ----------------- | :----------: | :----: | :------: | :------: | :-----: |
+| Fields of Crimson |     yes      |        |          |          |   yes   |
+| Fists of Fate     |     yes      |        |          |          |         |
+| Flamescar         |              |  yes   |          |          |         |
+| Fleshrender       |              |        |          |   yes    |         |
+| Flickerstep       |              |  yes   |          |          |         |
+| Frostburn         |     yes      |        |          |          |   yes   |
+
+| Item                      | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| ------------------------- | :----------: | :----: | :------: | :------: | :-----: |
+| Gloves of the Illuminator |              |        |   yes    |          |         |
+| Godslayer Crown           |              |  yes   |          |          |         |
+| Gohr's Devasting Grips    |              |        |          |   yes    |   yes   |
+| Grasp of Shadow           |              |        |   yes    |   yes    |         |
+| Greatstaff of the Crone   |              |        |          |   yes    |   yes   |
+| Greaves of the Empty Tomb |              |        |   yes    |   yes    |         |
+
+| Item            | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| --------------- | :----------: | :----: | :------: | :------: | :-----: |
+| Harlequin Crest |              |  yes   |          |          |         |
+| Hellhammer      |     yes      |        |          |          |         |
+| Howl from Below |     yes      |        |   yes    |          |         |
+| Hunter's Zenith |     yes      |        |   yes    |          |         |
+
+| Item                  | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| --------------------- | :----------: | :----: | :------: | :------: | :-----: |
+| Iceheart Brais        |              |        |   yes    |   yes    |         |
+| Insatiable Fury       |     yes      |        |   yes    |          |         |
+| Lidless Wall          |              |        |          |   yes    |         |
+| Mad Wolf's Glee       |              |        |          |   yes    |   yes   |
+| Melted Heart of Selig |              |  yes   |          |          |         |
+| Mother's Embrace      |     yes      |        |          |          |   yes   |
+| Overkill              |              |        |          |   yes    |         |
+| Penitent Greaves      |              |        |   yes    |   yes    |         |
+
+| Item                    | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| ----------------------- | :----------: | :----: | :------: | :------: | :-----: |
+| Rage of Harrogath       |              |        |   yes    |   yes    |         |
+| Raiment of the Infinite |              |        |          |   yes    |   yes   |
+| Ramaladni's Magnum Opus |              |        |   yes    |          |         |
+| Razorplate              |              |        |          |   yes    |         |
+| Ring of Mendeln         |     yes      |        |          |   yes    |         |
+| Ring of Starless Skies  |              |  yes   |          |          |         |
+
+| Item                  | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| --------------------- | :----------: | :----: | :------: | :------: | :-----: |
+| Scoundrel's Leathers  |              |  yes   |          |          |         |
+| Skyhunter             |              |        |          |   yes    |   yes   |
+| Soulbrand             |              |  yes   |          |          |         |
+| Staff of Endless Rage |              |        |          |   yes    |   yes   |
+| Staff of Lam Esen     |              |        |   yes    |          |         |
+| Storm's Companion     |     yes      |        |          |          |         |
+
 | Item                          | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
-| ----------------------------- | ------------ | ------ | -------- | -------- | ------- |
-| 100000 Steps                  | yes          |        |          |          | yes     |
-| Ahavarion, Spear of Lycander  |              | yes    |          |          |         |
-| Ancients' Oath                | yes          |        | yes      |          |         |
-| Andariel's Visage             |              | yes    |          |          |         |
-| Asheara's Khanjar             |              |        |          | yes      |         |
-| Azurewrath                    |              | yes    |          |          |         |
-| Banished Lord's Talisman      |              | yes    |          |          |         |
-| Battle Trance                 | yes          |        | yes      |          |         |
-| Black River                   |              | yes    |          |          |         |
-| Blood Artisan's Cuirass       |              | yes    | yes      | yes      |         |
-| Blood Moon Breeches           |              |        |          |          |         |
-| Bloodless Scream              | yes          |        |          |          | yes     |
-| Blue Rose                     |              | yes    |          |          |         |
-| Condemnation                  |              |        |          |          | yes     |
-| Cowl of the Nameless          |              | yes    |          |          |         |
-| Deathless Visage              |              |        |          | yes      | yes     |
-| Deathspeaker's Pendant        | yes          |        |          |          | yes     |
-| Dolmen Stone                  |              | yes    |          |          |         |
-| Doombringer                   |              | yes    |          |          |         |
-| Eaglehorn                     |              |        |          |          |         |
-| Esadora's Overflowing Cameo   |              |        |          | yes      |         |
-| Esu's Heirloom                |              |        |          |          | yes     |
-| Eyes in the Dark              |              |        |          | yes      | yes     |
-| Fields of Crimson             | yes          |        |          |          | yes     |
-| Fists of Fate                 | yes          |        |          |          |         |
-| Flamescar                     |              | yes    |          |          |         |
-| Fleshrender                   |              |        |          | yes      |         |
-| Flickerstep                   |              | yes    |          |          |         |
-| Frostburn                     | yes          |        |          |          | yes     |
-| Gloves of the Illuminator     |              |        | yes      |          |         |
-| Godslayer Crown               |              | yes    |          |          |         |
-| Gohr's Devasting Grips        |              |        |          | yes      | yes     |
-| Grasp of Shadow               |              |        | yes      | yes      |         |
-| Greatstaff of the Crone       |              |        |          | yes      | yes     |
-| Greaves of the Empty Tomb     |              |        | yes      | yes      |         |
-| Harlequin Crest               |              | yes    |          |          |         |
-| Hellhammer                    | yes          |        |          |          |         |
-| Howl from Below               | yes          |        | yes      |          |         |
-| Hunter's Zenith               | yes          |        | yes      |          |         |
-| Iceheart Brais                |              |        | yes      | yes      |         |
-| Insatiable Fury               | yes          |        | yes      |          |         |
-| Lidless Wall                  |              |        |          | yes      |         |
-| Mad Wolf's Glee               |              |        |          | yes      | yes     |
-| Melted Heart of Selig         |              | yes    |          |          |         |
-| Mother's Embrace              | yes          |        |          |          | yes     |
-| Overkill                      |              |        |          | yes      |         |
-| Penitent Greaves              |              |        | yes      | yes      |         |
-| Rage of Harrogath             |              |        | yes      | yes      |         |
-| Raiment of the Infinite       |              |        |          | yes      | yes     |
-| Ramaladni's Magnum Opus       |              |        | yes      |          |         |
-| Razorplate                    |              |        |          |          |         |
-| Ring of Mendeln               | yes          |        |          | yes      |         |
-| Ring of Starless Skies        |              | yes    |          |          |         |
-| Scoundrel's Leathers          |              | yes    |          |          |         |
-| Skyhunter                     |              |        |          | yes      | yes     |
-| Soulbrand                     |              | yes    |          |          |         |
-| Staff of Endless Rage         |              |        |          | yes      | yes     |
-| Staff of Lam Esen             |              |        | yes      |          |         |
-| Storm's Companion             | yes          |        |          |          |         |
-| Tassets of the Dawning Sky    | yes          |        |          |          |         |
-| Temerity                      |              |        |          | yes      |         |
-| Tempest Roar                  |              | yes    |          |          |         |
-| The Butcher's Cleaver         |              |        | yes      | yes      |         |
-| The Grandfather               |              | yes    |          |          |         |
-| The Oculus                    |              |        |          |          |         |
-| Tibault's Will                |              | yes    |          |          |         |
-| Tuskhelm of Joritz the Mighty |              | yes    |          |          |         |
-| Vasily's Prayer               |              |        |          | yes      | yes     |
-| Waxing Gibbous                | yes          |        | yes      |          |         |
-| Windforce                     |              |        | yes      |          |         |
-| Word of Hakan                 |              |        | yes      |          |         |
-| X'Fal's Corrodet Signet       |              | yes    |          |          |         |
+| ----------------------------- | :----------: | :----: | :------: | :------: | :-----: |
+| Tassets of the Dawning Sky    |     yes      |        |          |          |         |
+| Temerity                      |              |        |          |   yes    |         |
+| Tempest Roar                  |              |  yes   |          |          |         |
+| The Butcher's Cleaver         |              |        |   yes    |   yes    |         |
+| The Grandfather               |              |  yes   |          |          |         |
+| The Oculus                    |     yes      |        |          |          |         |
+| Tibault's Will                |              |  yes   |          |          |         |
+| Tuskhelm of Joritz the Mighty |              |  yes   |          |          |         |
+
+| Item                    | Beast in Ice | Duriel | Grigiore | Lord Zir | Varshan |
+| ----------------------- | :----------: | :----: | :------: | :------: | :-----: |
+| Vasily's Prayer         |              |        |          |   yes    |   yes   |
+| Waxing Gibbous          |     yes      |        |   yes    |          |         |
+| Windforce               |              |        |   yes    |          |         |
+| Word of Hakan           |              |        |   yes    |          |         |
+| X'Fal's Corrodet Signet |              |  yes   |          |          |         |
