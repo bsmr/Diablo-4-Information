@@ -82,7 +82,7 @@ Links
 | Boots    | `L:` Explosive Mist  |
 | Amulet   | `C:` Blighted        |
 | Ring 1   | `L:` Ultimate Shadow |
-| Ring 2   | `?:` Osseous Gale    |
+| Ring 2   | `L:` Osseous Gale    |
 | Weapon   | _N/A_                |
 | Offhand  | `L:` Blood-Soaked    |
 
