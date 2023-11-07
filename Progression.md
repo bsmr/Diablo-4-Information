@@ -56,12 +56,14 @@ flowchart TB
     WB4["World Bosses"]
     LE4["Legion Events"]
     NM4["Nighmare Dungeons Tiers 21 - 100"]
-    EV4["Echo of Vershan"]
-    DU4["Duriel, King of Maggots"]
-    GT4["Grigoire, The Galvanic Saint"]
-    LZ4["Lord Zir"]
-    BI4["The Beast in the Ice"]
-    EL["Echo of Lilith"]
+    EV4["`Echo of **Vershan**
+         ⇒ 1 * _Shard of Agony_`"]
+    DU4["`**Duriel**, King of Maggots`"]
+    GT4["`**Grigoire**, The Galvanic Saint
+         ⇒ 1 * _Mucus-Slick Egg_`"]
+    LZ4["`**Lord Zir**`"]
+    BI4["`**The Beast in the Ice**`"]
+    EL["`Echo of **Lilith**`"]
 
     TWI(["1 * Trembling Hand
           1 * Gurgling Head
