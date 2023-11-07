@@ -2,8 +2,12 @@
 
 ## Information
 
-- [Barbarian](Barbarian.md)
-- [Necromancer](Necromancer.md)
-- [Druid](Druid.md)
-- [Rogue](Rogue.md)
-- [Sorcerer](Sorcerer.md)
+- General
+  - [Progression](Progression.md)
+  - [Bosses](Bosses.md)
+- Classes
+  - [Barbarian](Barbarian.md)
+  - [Necromancer](Necromancer.md)
+  - [Druid](Druid.md)
+  - [Rogue](Rogue.md)
+  - [Sorcerer](Sorcerer.md)
