@@ -57,10 +57,10 @@ flowchart TB
     LE4["Legion Events"]
     NM4["Nighmare Dungeons Tiers 21 - 100"]
     EV4["`Echo of **Vershan**
-         ⇒ 1 * _Shard of Agony_`"]
+         ⇒ 1 * _Mucus-Slick Egg_`"]
     DU4["`**Duriel**, King of Maggots`"]
     GT4["`**Grigoire**, The Galvanic Saint
-         ⇒ 1 * _Mucus-Slick Egg_`"]
+         ⇒ 1 * _Shard of Agony_`"]
     LZ4["`**Lord Zir**`"]
     BI4["`**The Beast in the Ice**`"]
     EL["`Echo of **Lilith**`"]
