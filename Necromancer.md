@@ -54,7 +54,6 @@ Links
 
 - [YouTube: Best Necromancer Build Season 2 | Ubers NM100 With Infinimist Corpse Explosion](https://www.youtube.com/watch?v=R_NhJndVwBI&ab_channel=GoblinInc.)
 - [MobaLytics: Ruse_Cruize'sInfinimist](https://mobalytics.gg/diablo-4/builds/necromancer/permimist-corpse-explosion?tab=skills-and-gear)
-- []()
 
 #### DOT Gear - Level 50 to 100
 
