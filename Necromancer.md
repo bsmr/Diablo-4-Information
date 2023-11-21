@@ -48,6 +48,45 @@
 
 ## Setup
 
+### Season 2: 150 Million Dot Necromancer
+
+Links:
+
+- [Mobalytics Planner: S2 150 Million Dot Necromancer!](https://mobalytics.gg/diablo-4/profile/15fcdb6b-735b-484e-86f7-610728bcdff1/builds/d77af852-339d-4fc9-a4bb-558d2075d2c1)
+- [YouTube: Perfect Necro for EVERY Challenge - GIGADOT Necro Build Diablo 4! 2](https://www.youtube.com/watch?v=XIAZ9RnrI8Q&ab_channel=P4wnyhof)
+- [YouTube: How to Prepare for Abattoir of Zir! Diablo 4](https://www.youtube.com/watch?v=jIh1PsnNP2w&ab_channel=P4wnyhof)
+
+#### S2 150 Million Dot Gear - Level 100
+
+| Location | Final                             |
+| -------- | --------------------------------- |
+| Head     |                                   |
+| Chest    |                                   |
+| Arms     |                                   |
+| Pants    | **Tibault's Will**                |
+| Boots    | **Flickerstep**                   |
+| Amulet   |                                   |
+| Ring 1   | **X'Fal's Corroded Signet**       |
+| Ring 2   | **Ring of the Sacrilegious Soul** |
+| Weapon   |                                   |
+| Offhand  | **Lidless Wall**                  |
+
+#### S2 150 Million Dot  Aspects - Level 100
+
+| Location | Final                |
+| -------- | -------------------- |
+| Head     | `L:` Shielding Storm |
+| Chest    | `C:` Disobedience    |
+| Arms     | `L:` Ultimate Shadow |
+| Pants    | _N/A_                |
+| Boots    | _N/A_  |
+| Amulet   | `C:` Grasping Veins  |
+| Ring 1   | _N/A_                |
+| Ring 2   | _N/A_                |
+| Weapon   | `C:` Blighted        |
+| Offhand  | _N/A_                |
+
+
 ### DOT Infinimist Necromancer Endgame Level 50 to 100
 
 Links
